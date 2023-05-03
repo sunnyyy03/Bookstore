@@ -7,7 +7,7 @@ package coe528project;
 
 /**
  *
- * @author Sanchit Das
+ * @author Sanchit Das, Thiveyan Nadeswaran
  */
 public class Customer
 {
