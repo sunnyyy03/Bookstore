@@ -54,7 +54,7 @@ import javafx.scene.control.cell.CheckBoxTableCell;
 
 /**
  *
- * @author Sanchit Das
+ * @author Sanchit Das, Thiveyan Nadeswaran
  */
 
 public class JavaFXApplication extends Application{
