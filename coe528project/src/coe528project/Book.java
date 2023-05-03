@@ -9,7 +9,7 @@ import javafx.scene.control.CheckBox;
 
 /**
  *
- * @author Sanchit Das
+ * @author Sanchit Das, Thiveyan Nadeswaran
  */
 public class Book {
 
