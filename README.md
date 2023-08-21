@@ -1,4 +1,4 @@
-# Bookstore
+# Bookstore Application
 The bookstore application was incorporated with Java and its GUI was designed with JavaFX. 
 State design patter was used for this application.
 There are two types of users for this application: Owner and Customers.
