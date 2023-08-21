@@ -16,4 +16,4 @@ If the customer has less than 1000 points, their status will be silver; while if
 The customers could use the bookstore application for the following:
 -Purchasing books either directly or redeeming points
 
-
+Note: ReadMe is still in process
