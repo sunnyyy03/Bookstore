@@ -10,7 +10,7 @@ The owner could use the bookstore application to manage/track books, as they are
 The registered customer's login credential is based on the credential the owner set up for them. 
 After the customer logged in, their points and their status (Silver/Gold) will be displayed respectively.
 If the customer has less than 1000 points, their status will be silver; while if the points is 1000 or above, their status will be gold.
-The customers could use the bookstore application to purchase books either directly or by redeeming points. 
+The customers could use the bookstore application to purchase books either buying or by redeeming points. 
 
 For customers to purchase books, they need to select them with the check box in the table with the books that the owner added in the inventory. 
 If the customer wants to redeem points and purchase and there is insufficent points to cover the complete cost, the points will cover a part of the cost, 
