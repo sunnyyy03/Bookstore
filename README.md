@@ -14,4 +14,4 @@ The customers could use the bookstore application to purchase books either direc
 
 For customers to purchase books, they need to select them with the check box in the table with the books that the owner added in the inventory. 
 If the customer wants to redeem points and purchase and there is insufficent points to cover the complete cost, the points will cover a part of the cost 
-but the customer needs to pay for the remaining.
+but the customer needs to pay for the remaining. After the transaction is successful, the points will be updated based on the total cost of the purchase and the status may be updated.
