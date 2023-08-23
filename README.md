@@ -5,7 +5,7 @@ Additionally, the use case diagram and the class diagram for this application wa
 There are two types of users for this application: Owner and Customers.
 
 The owner has a seperate login credential to access the app. The owner's username is 'admin' and the password is 'admin'.
-The owner could use the bookstore application to manage/track books, as they are able to add/remove the books. Furthermore, they could also manage and track customers as they are able to add/remove customers and access their points and status.
+The owner could use the bookstore application to manage/track books, as they are able to add/remove them. Furthermore, they could also manage and track customers as they are able to add/remove them and access their points and status.
 
 The registered customer's login credential is based on the credential the owner set up for them. 
 After the customer logged in, their points and their status (Silver/Gold) will be displayed respectively.
